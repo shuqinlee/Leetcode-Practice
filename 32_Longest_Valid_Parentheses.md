@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ../Leetcode-Practice
----
-
 # 32.  Longest Valid Parentheses
 
 ### Problem
@@ -56,7 +52,7 @@ class Solution(object):
 
 摘自@TK, 写的很完整啦 
 
-![D5C8C7FD-141D-4A61-AC9E-52EAEA5D5B7C](/Users/shuqinlee/Documents/Programming/Leetcode-Practice/D5C8C7FD-141D-4A61-AC9E-52EAEA5D5B7C.png)
+![D5C8C7FD-141D-4A61-AC9E-52EAEA5D5B7C](https://github.com/shuqinlee/Leetcode-Practice/blob/master/D5C8C7FD-141D-4A61-AC9E-52EAEA5D5B7C.png)
 
 每种题目要求都有它内在的规律，经常一种算法出来的时候，往往都是发现了其中的某种rule，一旦发现了，就很愉快了 ；）。
 
