@@ -57,6 +57,8 @@ class Solution(object):
 每种题目要求都有它内在的规律，经常一种算法出来的时候，往往都是发现了其中的某种rule，一旦发现了，就很愉快了 ；）。
 
 ```c++
+// time complexity: O(n)
+// space compexity: O(1)
 class Solution {
 	public:
 		int longestValidParentheses(string s) {
